@@ -39,5 +39,5 @@ Delegare una operazione [asincrona](#Asynchronous) ad un altro [componente](#Com
 
 
 ## <a Name="User"></a>utente
-Usiamo questo termine informale per riferirsi a tutti i consumatori di un servizio, sia esso un essere che un essere umano o un altro servizio.
+Usiamo questo termine informale per riferirsi a tutti i consumatori di un servizio, sia esso essere umano o un altro servizio.
 
